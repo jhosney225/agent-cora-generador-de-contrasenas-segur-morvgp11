@@ -1,0 +1,6 @@
+{
+  "name": "agent-cora-generador-de-contrasenas-segur-morvgp11",
+  "version": "1.0.0",
+  "description": "Proyecto de Cora [Gen26]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
